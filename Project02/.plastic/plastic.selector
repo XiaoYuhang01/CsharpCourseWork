@@ -1,0 +1,4 @@
+repository "Project02@ssl://xiaoyuhang0101@sh01-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/739322594" 
+     
